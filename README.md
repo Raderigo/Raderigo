@@ -25,6 +25,7 @@ graph TD;
     C -->|No| E[Resultado B];
     D --> F[Fin];
     E --> F;
+```
 
 ```flow
 st=>start: Campo
