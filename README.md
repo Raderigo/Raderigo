@@ -24,8 +24,7 @@ graph TD;
     A --> B{¿ Es sostenible y rentable?};
     B -->|Sí| C[Resultado A];
     B -->|No| D[Resultado B];
-    C --> D[Fin];
-    D --> E;
+    C[Hola] --> D[Exito];
 ```
 
 
