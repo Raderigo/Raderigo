@@ -10,13 +10,13 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 
 ⏳Cargando...⏳
 
--[X] Iniciando curso
+- [X] Iniciando curso
 
-    -[]Bases de datos
+    - []Bases de datos
 
-    -[]Programación
+    - []Programación
 
-    -[]Lenguajes de marcas
+    - []Lenguajes de marcas
 
 ## Trabajador apasionado del campo
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hojas.jpg)
