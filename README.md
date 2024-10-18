@@ -5,3 +5,4 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 
 # Rodrigo Gómez Fernández
 ## Estudiante
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg)
