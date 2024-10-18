@@ -32,4 +32,15 @@ st->op2->cond2
 cond(Si)->end
 cond(No)->op2
 ```
+```flow
+st=>start: Login
+op=>operation: Login operation
+cond=>condition: Successful Yes or No?
+e=>end: To admin
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
 <!--- Emojis para posible uso 🌱 🎓 📖 🌄 --->
