@@ -17,6 +17,15 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 ## Trabajador apasionado del campo
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hojas.jpg)
 
+```mermaid
+graph TD;
+    A[Inicio] --> B[Proceso 1];
+    B --> C{¿Condición?};
+    C -->|Sí| D[Resultado A];
+    C -->|No| E[Resultado B];
+    D --> F[Fin];
+    E --> F;
+
 ```flow
 st=>start: Campo
 op1=>operation: Uso de acricultura de precisión y nuevas tecnologías
