@@ -17,40 +17,16 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 ## Trabajador apasionado del campo
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hojas.jpg)
 
+<!--- Gracias a Mermaid, que es un flavor de Markdown soportado por Github, puedo hacer el siguiente diagrama -->
 ```mermaid
 graph TD;
-    A[Inicio] --> B[Proceso 1];
-    B --> C{¿Condición?};
-    C -->|Sí| D[Resultado A];
-    C -->|No| E[Resultado B];
-    D --> F[Fin];
-    E --> F;
+    A[Campo];
+    A --> B{¿ Es sostenible y rentable?};
+    B -->|Sí| C[Resultado A];
+    B -->|No| D[Resultado B];
+    C --> D[Fin];
+    D --> E;
 ```
 
-```flow
-st=>start: Campo
-op1=>operation: Uso de acricultura de precisión y nuevas tecnologías
-cond1=>condition: ¿ Ha mejorado la producción Si No?
-op2=>operation: 
-e=>end: Éxito
-
-st->op1->cond1
-cond(Si)->op2
-cond(No)->op1
-
-st->op2->cond2
-cond(Si)->end
-cond(No)->op2
-```
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
 
 <!--- Emojis para posible uso 🌱 🎓 📖 🌄 --->
