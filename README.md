@@ -22,9 +22,9 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 graph TD;
     A[Campo];
     A --> B{¿ Es sostenible y rentable?};
-    B -->|Sí| C[Resultado A];
-    B -->|No| D[Resultado B];
-    C[Hola] --> D[Exito];
+    B -->|Sí| D;
+    B -->|No| C ;
+    C[Aplicar nuevas tecnologías] --> D[Éxito];
 ```
 
 
