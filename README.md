@@ -8,7 +8,28 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20codigo.jpg)
 
+⏳Cargando...⏳
+-[X] Iniciando curso
+    -[]Bases de datos
+    -[]Programación
+    -[]Lenguajes de marcas
+
 ## Trabajador apasionado del campo
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hojas.jpg)
 
+```flow
+st=>start: Campo
+op1=>operation: Uso de acricultura de precisión y nuevas tecnologías
+cond1=>condition: ¿ Ha mejorado la producción Si No?
+op2=>operation: 
+e=>end: Éxito
+
+st->op1->cond1
+cond(Si)->op2
+cond(No)->op1
+
+st->op2->cond2
+cond(Si)->end
+cond(No)->op2
+```
 <!--- Emojis para posible uso 🌱 🎓 📖 🌄 --->
