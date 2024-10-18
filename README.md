@@ -8,8 +8,9 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20codigo.jpg)
 
-###⏳ Técnico superior en desarrollo de aplicaciones multiplataforma
-###Cargando...⏳
+### ⏳ Técnico superior en desarrollo de aplicaciones multiplataforma
+### Cargando...⏳
+
 <!--- La siguiente lista gracias al flavor de Github para Markdown (GFM) --->
 - [X] Iniciando curso
     - [ ] Bases de datos
