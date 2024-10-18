@@ -4,5 +4,6 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
 # Rodrigo Gómez Fernández
-## Estudiante
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg)
+## Estudiante  / Trababajor:seedling:
+
+CIFPD "La Conservera" Ceutí
