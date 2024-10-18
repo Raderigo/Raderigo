@@ -6,7 +6,7 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 # Rodrigo Gómez Fernández
 ## Estudiante a tiempo parcial <br> CIFPD "La Conservera" Ceutí 📖
 
-![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20matrix.jpg)
+![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20codigo.jpg)
 
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hojas.jpg)
 
