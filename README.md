@@ -19,7 +19,7 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
     - [ ]Lenguajes de marcas
 
 ## Trabajador apasionado del campo
-![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hojas.jpg)
+![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hoja.jpg)
 * Agricultura regenerativa
 * Agricultura sostenible
 
