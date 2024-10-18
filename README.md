@@ -1,5 +1,6 @@
 <!--- Uso HTML para poner una imagen ya que en Markdown no puedo alinearla a la derecha aunque he pensado usar algún truco
-como rellenar con espacios en blanco o insertar una imagen transparente delante, me parecía un poco cutre--->
+como rellenar con espacios en blanco o insertar una imagen transparente delante, me parecía un poco cutre.
+La imagen es el Octocat, la mascota de Github--->
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
@@ -30,8 +31,9 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 
 ## Trabajador apasionado del campo 🌱
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hoja.jpg)
-* Agricultura regenerativa
-* Agricultura sostenible
+* 🌄 [Agricultura regenerativa](https://es.wikipedia.org/wiki/Agricultura_regenerativa)
+* 🍎 [Agricultura sostenible](https://es.wikipedia.org/wiki/Agricultura_sostenible)
+* 🚜 [Agricultura de precisión](https://es.wikipedia.org/wiki/Agricultura_de_precisi%C3%B3n)
 
 <!--- Gracias a Mermaid, que es un flavor de Markdown soportado por Github, puedo hacer el siguiente diagrama -->
 ```mermaid
