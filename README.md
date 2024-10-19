@@ -32,8 +32,11 @@ La imagen es el Octocat, la mascota de Github--->
 ## Trabajador apasionado del campo 🌱
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hoja.jpg)
 * 🌄 [Agricultura regenerativa](https://es.wikipedia.org/wiki/Agricultura_regenerativa)
+  * Sensores IoT (Internet of the Things).
 * 🍎 [Agricultura sostenible](https://es.wikipedia.org/wiki/Agricultura_sostenible)
 * 🚜 [Agricultura de precisión](https://es.wikipedia.org/wiki/Agricultura_de_precisi%C3%B3n)
+  * Guiado automático.
+  * Mapeado GPS.
 
 <!--- Gracias a Mermaid, que es un flavor de Markdown soportado por Github, puedo hacer el siguiente diagrama -->
 ```mermaid
