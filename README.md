@@ -45,5 +45,3 @@ graph TD;
     C[Aplicar nuevas tecnologías] --> D[Éxito];
 ```
 
-
-<!--- Emojis para posible uso  🎓 📖 🌄 --->
