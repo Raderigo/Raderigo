@@ -8,13 +8,15 @@ La imagen es el Octocat, la mascota de Github--->
 ## Estudiante a tiempo parcial <br> CIFPD ["La Conservera"](http://www.fplaconservera.es) Ceutí 📖
 
 ![Faceta informátia](https://github.com/Raderigo/Raderigo/blob/main/Banner%20codigo.jpg)
+<img align='left' src='https://thoughtcoach.com.au/wp-content/uploads/2022/08/gold-standard.gif' width='50'>
 ### Habilidades actuales
 | SqlServer | C++ | PHP  |
 |:-------------:|:---------------:|:-------------:|
-| ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) |  |   |
+| ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) | ![C++](https://github.com/Raderigo/Raderigo/blob/main/c++.jpg) | ![PHP](https://github.com/Raderigo/Raderigo/blob/main/php.jpg)  |
 
-### ⏳ Técnico superior en desarrollo de aplicaciones multiplataforma
-### Cargando...⏳
+### Actualmente cursando
+### Técnico superior en desarrollo de aplicaciones multiplataforma
+
 
 <!--- La siguiente lista gracias al flavor de Github para Markdown (GFM) --->
 - [X] Iniciando curso
