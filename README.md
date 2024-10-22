@@ -8,17 +8,18 @@ La imagen es el Octocat, la mascota de Github--->
 ## Estudiante a tiempo parcial <br> CIFPD ["La Conservera"](http://www.fplaconservera.es) Ceutí 📖
 
 ![Faceta informátia](https://github.com/Raderigo/Raderigo/blob/main/Banner%20codigo.jpg)
+### Habilidades actuales
+| ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) |  |
 
-![Descripción de la imagen](https://picsum.photos/800/600)
 ### ⏳ Técnico superior en desarrollo de aplicaciones multiplataforma
 ### Cargando...⏳
 
 <!--- La siguiente lista gracias al flavor de Github para Markdown (GFM) --->
 - [X] Iniciando curso
     - [ ] Bases de datos
-        | <!-- -->      | <!-- -->        | <!-- -->      |
-        |:-------------:|:---------------:|:-------------:|
-        | ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) |        | Cell 3        |
+<!---        | <!-- -->      | <!-- -->        | <!-- -->      |
+        |:-------------:|:---------------:|:-------------:| --->
+        | ![Postgre](https://github.com/Raderigo/Raderigo/blob/main/postgre.jpg) | ![Oracle](https://github.com/Raderigo/Raderigo/blob/main/oracle.jpg) | ![MySql](https://github.com/Raderigo/Raderigo/blob/main/mysql.jpg) |  |
       - SQLServer
       - Oracle
       - MySQL
