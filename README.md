@@ -7,8 +7,9 @@ La imagen es el Octocat, la mascota de Github--->
 # Rodrigo Gómez Fernández
 ## Estudiante a tiempo parcial <br> CIFPD ["La Conservera"](http://www.fplaconservera.es) Ceutí 📖
 
-![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20codigo.jpg)
+![Faceta informátia](https://github.com/Raderigo/Raderigo/blob/main/Banner%20codigo.jpg)
 
+![Descripción de la imagen](https://picsum.photos/800/600)
 ### ⏳ Técnico superior en desarrollo de aplicaciones multiplataforma
 ### Cargando...⏳
 
