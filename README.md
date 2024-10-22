@@ -13,7 +13,7 @@ La imagen es el Octocat, la mascota de Github--->
 
 | SqlServer | C++ | PHP  |
 |:-------------:|:---------------:|:-------------:|
-| ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) | ![C++](https://github.com/Raderigo/Raderigo/blob/main/c++.jpg) | ![PHP](https://github.com/Raderigo/Raderigo/blob/main/php.jpg)  |
+| ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/src/sqlserver.jpg) | ![C++](https://github.com/Raderigo/Raderigo/blob/main/src/c++.jpg) | ![PHP](https://github.com/Raderigo/Raderigo/blob/main/src/php.jpg)  |
 
 ### ![](https://github.com/Raderigo/Raderigo/blob/main/elearnin.gif) Actualmente cursando
 ### Técnico superior en desarrollo de aplicaciones multiplataforma
@@ -25,19 +25,14 @@ La imagen es el Octocat, la mascota de Github--->
         | Postgre       | Oracle       | MySql      |
         |:-------------:|:---------------:|:-------------:|
         | ![Postgre](https://github.com/Raderigo/Raderigo/blob/main/postgre.jpg) | ![Oracle](https://github.com/Raderigo/Raderigo/blob/main/oracle.jpg) | ![MySql](https://github.com/Raderigo/Raderigo/blob/main/mysql.jpg) |
-      - SQLServer
-      - Oracle
-      - MySQL
-      - Postgre
     - [ ] Programación
-      - Java
-      - Python
-      - C++
+        | Java       | Python       |
+        |:-------------:|:---------------:|
+        | ![Java](https://github.com/Raderigo/Raderigo/blob/main/java.jpg) | ![Python](https://github.com/Raderigo/Raderigo/blob/main/python.jpg)|
     - [ ] Lenguajes de marcas
-      - HTML
-      - CSS
-      - XML
-      - Markdown
+        | Markdown       | HTML       | XML      | CSS      |
+        |:-------------:|:---------------:|:-------------:|
+        | ![Markdown](https://github.com/Raderigo/Raderigo/blob/main/markdown.jpg)| ![HTML](https://github.com/Raderigo/Raderigo/blob/main/html.jpg) | ![XML](https://github.com/Raderigo/Raderigo/blob/main/xml.jpg) | ![CSS](https://github.com/Raderigo/Raderigo/blob/main/css.jpg)|
 
 ## Trabajador apasionado del campo 🌱
 ![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hoja.jpg)
