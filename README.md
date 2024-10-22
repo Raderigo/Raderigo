@@ -17,8 +17,8 @@ La imagen es el Octocat, la mascota de Github--->
 <!--- La siguiente lista gracias al flavor de Github para Markdown (GFM) --->
 - [X] Iniciando curso
     - [ ] Bases de datos
-<!---        | <!-- -->      | <!-- -->        | <!-- -->      |
-        |:-------------:|:---------------:|:-------------:| --->
+<!---        | <!-- -->      | <!-- -->        | <!-- -->      | --->
+        |:-------------:|:---------------:|:-------------:|
         | ![Postgre](https://github.com/Raderigo/Raderigo/blob/main/postgre.jpg) | ![Oracle](https://github.com/Raderigo/Raderigo/blob/main/oracle.jpg) | ![MySql](https://github.com/Raderigo/Raderigo/blob/main/mysql.jpg) |  |
       - SQLServer
       - Oracle
