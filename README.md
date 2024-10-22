@@ -31,7 +31,7 @@ La imagen es el Octocat, la mascota de Github--->
         | ![Java](https://github.com/Raderigo/Raderigo/blob/main/src/java.jpg) | ![Python](https://github.com/Raderigo/Raderigo/blob/main/src/python.jpg)|
     - [ ] Lenguajes de marcas
         | Markdown       | HTML       | XML      | CSS      |
-        |:-------------:|:---------------:|:-------------:|
+        |:-------------:|:---------------:|:-------------:|:-------------:|
         | ![Markdown](https://github.com/Raderigo/Raderigo/blob/main/src/markdown.jpg) | ![HTML](https://github.com/Raderigo/Raderigo/blob/main/src/html.jpg) | ![XML](https://github.com/Raderigo/Raderigo/blob/main/src/xml.jpg) | ![CSS](https://github.com/Raderigo/Raderigo/blob/main/src/css.jpg)|
 
 ## Trabajador apasionado del campo 🌱
