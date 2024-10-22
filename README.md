@@ -17,7 +17,7 @@ La imagen es el Octocat, la mascota de Github--->
     - [ ] Bases de datos
         | <!-- -->      | <!-- -->        | <!-- -->      |
         |:-------------:|:---------------:|:-------------:|
-        | ![https://www.microsoft.com/es-es/sql-server/sql-server-2022](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg)       | **Bold**        | Cell 3        |
+        | ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) |        | Cell 3        |
       - SQLServer
       - Oracle
       - MySQL
