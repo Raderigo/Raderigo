@@ -12,6 +12,7 @@ La imagen es el Octocat, la mascota de Github--->
 
 <img align='left' src='https://thoughtcoach.com.au/wp-content/uploads/2022/08/gold-standard.gif' width='50'>
 ### Habilidades actuales
+
 | SqlServer | C++ | PHP  |
 |:-------------:|:---------------:|:-------------:|
 | ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) | ![C++](https://github.com/Raderigo/Raderigo/blob/main/c++.jpg) | ![PHP](https://github.com/Raderigo/Raderigo/blob/main/php.jpg)  |
