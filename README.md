@@ -39,6 +39,9 @@ La imagen es el Octocat, la mascota de Github--->
 * 🌄 [Agricultura regenerativa](https://es.wikipedia.org/wiki/Agricultura_regenerativa)
   * Sensores IoT (Internet of the Things).
 * 🍎 [Agricultura sostenible](https://es.wikipedia.org/wiki/Agricultura_sostenible)
+  * Modelos de simulación.
+  * Predicción de rendimiento.
+  * Software de gestión.
 * 🚜 [Agricultura de precisión](https://es.wikipedia.org/wiki/Agricultura_de_precisi%C3%B3n)
   * Guiado automático.
   * Mapeado GPS.
