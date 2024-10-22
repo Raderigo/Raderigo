@@ -9,7 +9,9 @@ La imagen es el Octocat, la mascota de Github--->
 
 ![Faceta informátia](https://github.com/Raderigo/Raderigo/blob/main/Banner%20codigo.jpg)
 ### Habilidades actuales
-| ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) |  |
+|  | |  |
+|:-------------:|:---------------:|:-------------:|
+| ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) |  |   |
 
 ### ⏳ Técnico superior en desarrollo de aplicaciones multiplataforma
 ### Cargando...⏳
@@ -17,9 +19,9 @@ La imagen es el Octocat, la mascota de Github--->
 <!--- La siguiente lista gracias al flavor de Github para Markdown (GFM) --->
 - [X] Iniciando curso
     - [ ] Bases de datos
-<!---        | <!-- -->      | <!-- -->        | <!-- -->      | --->
+        | <!-- -->      | <!-- -->        | <!-- -->      |
         |:-------------:|:---------------:|:-------------:|
-        | ![Postgre](https://github.com/Raderigo/Raderigo/blob/main/postgre.jpg) | ![Oracle](https://github.com/Raderigo/Raderigo/blob/main/oracle.jpg) | ![MySql](https://github.com/Raderigo/Raderigo/blob/main/mysql.jpg) |  |
+        | ![Postgre](https://github.com/Raderigo/Raderigo/blob/main/postgre.jpg) | ![Oracle](https://github.com/Raderigo/Raderigo/blob/main/oracle.jpg) | ![MySql](https://github.com/Raderigo/Raderigo/blob/main/mysql.jpg) |
       - SQLServer
       - Oracle
       - MySQL
