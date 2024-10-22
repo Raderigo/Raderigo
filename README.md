@@ -7,7 +7,7 @@ La imagen es el Octocat, la mascota de Github--->
 # Rodrigo Gómez Fernández
 ## Estudiante a tiempo parcial <br> CIFPD ["La Conservera"](http://www.fplaconservera.es) Ceutí 📖
 
-![Faceta informátia](https://github.com/Raderigo/Raderigo/blob/main/Banner%20codigo.jpg)
+![Faceta informátia](https://github.com/Raderigo/Raderigo/blob/main/src/Banner%20codigo.jpg)
 
 ### ![](https://github.com/Raderigo/Raderigo/blob/main/Diploma.webp) Habilidades actuales
 
@@ -24,18 +24,18 @@ La imagen es el Octocat, la mascota de Github--->
     - [ ] Bases de datos
         | Postgre       | Oracle       | MySql      |
         |:-------------:|:---------------:|:-------------:|
-        | ![Postgre](https://github.com/Raderigo/Raderigo/blob/main/postgre.jpg) | ![Oracle](https://github.com/Raderigo/Raderigo/blob/main/oracle.jpg) | ![MySql](https://github.com/Raderigo/Raderigo/blob/main/mysql.jpg) |
+        | ![Postgre](https://github.com/Raderigo/Raderigo/blob/main/src/postgre.jpg) | ![Oracle](https://github.com/Raderigo/Raderigo/blob/main/src/oracle.jpg) | ![MySql](https://github.com/Raderigo/Raderigo/blob/main/src/mysql.jpg) |
     - [ ] Programación
         | Java       | Python       |
         |:-------------:|:---------------:|
-        | ![Java](https://github.com/Raderigo/Raderigo/blob/main/java.jpg) | ![Python](https://github.com/Raderigo/Raderigo/blob/main/python.jpg)|
+        | ![Java](https://github.com/Raderigo/Raderigo/blob/main/src/java.jpg) | ![Python](https://github.com/Raderigo/Raderigo/blob/main/src/python.jpg)|
     - [ ] Lenguajes de marcas
         | Markdown       | HTML       | XML      | CSS      |
         |:-------------:|:---------------:|:-------------:|
-        | ![Markdown](https://github.com/Raderigo/Raderigo/blob/main/markdown.jpg)| ![HTML](https://github.com/Raderigo/Raderigo/blob/main/html.jpg) | ![XML](https://github.com/Raderigo/Raderigo/blob/main/xml.jpg) | ![CSS](https://github.com/Raderigo/Raderigo/blob/main/css.jpg)|
+        | ![Markdown](https://github.com/Raderigo/Raderigo/blob/main/src/markdown.jpg) | ![HTML](https://github.com/Raderigo/Raderigo/blob/main/src/html.jpg) | ![XML](https://github.com/Raderigo/Raderigo/blob/main/src/xml.jpg) | ![CSS](https://github.com/Raderigo/Raderigo/blob/main/src/css.jpg)|
 
 ## Trabajador apasionado del campo 🌱
-![](https://github.com/Raderigo/Raderigo/blob/main/Banner%20hoja.jpg)
+![](https://github.com/Raderigo/Raderigo/blob/main/src/Banner%20hoja.jpg)
 * 🌄 [Agricultura regenerativa](https://es.wikipedia.org/wiki/Agricultura_regenerativa)
   * Sensores IoT (Internet of the Things).
 * 🍎 [Agricultura sostenible](https://es.wikipedia.org/wiki/Agricultura_sostenible)
