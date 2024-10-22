@@ -15,7 +15,7 @@ La imagen es el Octocat, la mascota de Github--->
 |:-------------:|:---------------:|:-------------:|
 | ![SqlServer](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg) | ![C++](https://github.com/Raderigo/Raderigo/blob/main/c++.jpg) | ![PHP](https://github.com/Raderigo/Raderigo/blob/main/php.jpg)  |
 
-### ![](https://github.com/Raderigo/Raderigo/blob/main/elearning.gif) Actualmente cursando
+### ![](https://github.com/Raderigo/Raderigo/blob/main/elearnin.gif) Actualmente cursando
 ### Técnico superior en desarrollo de aplicaciones multiplataforma
 
 
