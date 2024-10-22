@@ -15,6 +15,9 @@ La imagen es el Octocat, la mascota de Github--->
 <!--- La siguiente lista gracias al flavor de Github para Markdown (GFM) --->
 - [X] Iniciando curso
     - [ ] Bases de datos
+        | <!-- -->      | <!-- -->        | <!-- -->      |
+        |:-------------:|:---------------:|:-------------:|
+        | ![https://www.microsoft.com/es-es/sql-server/sql-server-2022](https://github.com/Raderigo/Raderigo/blob/main/sqlserver.jpg)       | **Bold**        | Cell 3        |
       - SQLServer
       - Oracle
       - MySQL
