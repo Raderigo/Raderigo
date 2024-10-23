@@ -3,8 +3,10 @@ como rellenar con espacios en blanco o insertar una imagen transparente delante,
 La imagen es el Octocat, la mascota de Github--->
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
+
 # Rodrigo Gómez Fernández
 ## Estudiante a tiempo parcial <br> CIFPD ["La Conservera"](http://www.fplaconservera.es) Ceutí 📖
+
 
 ![Faceta informátia](https://github.com/Raderigo/Raderigo/blob/main/src/Banner%20codigo.jpg)
 
