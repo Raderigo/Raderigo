@@ -36,6 +36,8 @@ La imagen es el Octocat, la mascota de Github--->
         |:-------------:|:---------------:|:-------------:|:-------------:|
         | ![Markdown](https://github.com/Raderigo/Raderigo/blob/main/src/markdown.jpg) | ![HTML](https://github.com/Raderigo/Raderigo/blob/main/src/html.jpg) | ![XML](https://github.com/Raderigo/Raderigo/blob/main/src/xml.jpg) | ![CSS](https://github.com/Raderigo/Raderigo/blob/main/src/css.jpg)|
 
+---
+
 ## Trabajador apasionado del campo 🌱
 ![](https://github.com/Raderigo/Raderigo/blob/main/src/Banner%20hoja.jpg)
 * 🌄 [Agricultura regenerativa](https://es.wikipedia.org/wiki/Agricultura_regenerativa)
